@@ -1,0 +1,21 @@
+.Container {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/6/6d/Good_Food_Display_-_NCI_Visuals_Online.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  background-position: center center;
+  background-attachment: fixed;
+}
+.Text {
+  position: fixed;
+  margin: 0 auto;
+  color: #3364ff;
+  font-family: serif;
+  font-size: 60px;
+  justify-content: center;
+  text-align: center;
+}

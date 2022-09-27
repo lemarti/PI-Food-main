@@ -1,0 +1,14 @@
+.Header{
+    border-style: solid;
+}
+.Title {
+  font-family: serif;
+  
+ 
+}
+.CardsContainer {
+  background-color: coral;
+}
+.paginationContainer {
+  background-color: lightgreen;
+}
